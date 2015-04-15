@@ -1,4 +1,4 @@
-{ "name" : "node-recurly"
+{ "name" : "fixed-node-recurly"
 , "description" : "Library for accessing the api for the Recurly recurring billing service."
 , "keywords" : [ "recurly", "e-commerce", "recurring billing" ]
 , "version" : "2.1.0"
